@@ -1,6 +1,6 @@
 # login_app
 
-A new Flutter project.
+![UI](assets/git/UI.jpg)
 
 ## Getting Started
 
